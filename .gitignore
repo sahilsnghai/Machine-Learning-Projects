@@ -16,8 +16,5 @@ archive
 
 .python-version
 
-spam_detector
-
 # pcikle
-
 *.pkl
